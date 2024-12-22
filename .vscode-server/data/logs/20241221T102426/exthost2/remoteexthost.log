@@ -1,0 +1,16 @@
+2024-12-21 10:33:11.509 [info] Extension host with pid 33900 started
+2024-12-21 10:33:11.532 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/05824ef03c6c2d7d4fb131827bd3e7f0/vscode.lock': Lock acquired.
+2024-12-21 10:34:14.542 [info] Eager extensions activated
+2024-12-21 10:35:55.429 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-21 10:35:55.433 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-12-21 10:35:55.433 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-21 10:35:55.472 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-21 10:35:55.472 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-21 10:35:55.472 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-21 10:35:55.473 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-21 10:35:57.655 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-12-21 10:35:57.656 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-12-21 10:38:05.272 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-12-21 11:51:58.692 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-12-21 11:51:58.693 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/05824ef03c6c2d7d4fb131827bd3e7f0/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-12-21 11:51:58.727 [info] Extension host with pid 33900 exiting with code 0

@@ -1,0 +1,3 @@
+2024-12-21 11:54:28.233 [info] Extension host with pid 37024 started
+2024-12-21 11:57:09.013 [info] Extension host terminating: received terminate message from renderer
+2024-12-21 11:57:09.015 [info] Extension host with pid 37024 exiting with code 0

@@ -1,0 +1,3 @@
+2024-12-21 11:51:42.058 [info] Extension host with pid 36762 started
+2024-12-21 12:39:53.350 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-12-21 12:39:53.353 [info] Extension host with pid 36762 exiting with code 0

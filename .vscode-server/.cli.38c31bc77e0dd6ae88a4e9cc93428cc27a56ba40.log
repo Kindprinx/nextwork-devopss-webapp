@@ -1,0 +1,6 @@
+Listening on 127.0.0.1:40181
+[2024-12-22 05:08:12] info Disposed of connection to running server.
+looking for token e69978b6-80aa-4709-a807-402055e6c7d7, got Some("e69978b6-80aa-4709-a807-402055e6c7d7")
+[2024-12-22 05:08:14] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/pid.txt for a running server...
+[2024-12-22 05:08:14] info Starting server...
+[2024-12-22 05:08:14] info Server started
